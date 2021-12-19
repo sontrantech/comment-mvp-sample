@@ -1,3 +1,7 @@
 <resources>
   <string name="app_name">Geocomply</string>
+
+  <!--  Comment Screen-->
+  <string name="txt_hint_comment">Input your comment</string>
+  <string name="pattern_not_found">Pattern Not Found</string>
 </resources>
